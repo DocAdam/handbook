@@ -125,7 +125,7 @@
     "chalk": "^4.1.2",
     "eslint": "^7.32.0",
     "line-column": "^1.0.2",
-    "markdown-link-check": "^3.8.7",
+    "markdown-link-check": "^3.9.0",
     "next-sitemap": "^1.6.203",
     "prettier": "^2.5.0",
     "sass": "^1.43.4",
